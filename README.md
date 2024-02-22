@@ -1,4 +1,4 @@
-# 🗒️ Task 1 Programming 6
+# 🗒️Task 1 Programming 6
 ## ❕Situation:
 Assignment 1 (First interaction with an API)
 ## ⚠️Requirements
@@ -8,3 +8,10 @@ Assignment 1 (First interaction with an API)
 - El estudiante conectara el componente al servicio
 - El servicio invocara un API para devolver informacion de TvShows
 - El estudiante mostrara en el componente la informacion que devolvió el API
+## 💻Software Available:
+- Angular
+- HTML5
+- CSS3
+- Java Script
+    - Node JS
+
