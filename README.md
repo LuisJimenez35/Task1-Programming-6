@@ -2,12 +2,12 @@
 ## ❕Situation:
 Assignment 1 (First interaction with an API)
 ## ⚠️Requirements
-- El estudiante va a generar un nuevo component TV Shows
-- El estudiante creara el routing para navegar a TvShows component
-- El estudiante creara un servicio TvShows service
-- El estudiante conectara el componente al servicio
-- El servicio invocara un API para devolver informacion de TvShows
-- El estudiante mostrara en el componente la informacion que devolvió el API
+- The student will generate a new TV Shows component.
+- The student will create the routing to navigate to the TvShows component.
+- The student will create a TvShows service
+- The student will connect the component to the service
+- The service will invoke an API to return information from TvShows
+- Student will display the information returned by the API in the component
 ## 💻Software Available:
 - Angular
 - HTML5
